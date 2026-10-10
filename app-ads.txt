@@ -1,0 +1,13 @@
+# app-ads.txt  -  Mustafa Öztürk
+# Her satir: reklam-ağı-alan-adi, yayıncı-ID, DIRECT/RESELLER, sertifika-ID
+# Asagidaki satırları, ağ panellerindeki gerçek yayıncı ID'leriyle doldur.
+# Bos/ornek satirlar doğrulama hatasi verir; kullanmadigin ağların satırını silme/ekleme.
+
+# Unity Ads (Unity Dashboard > Monetize > Settings'te "Publisher ID")
+# unity.com, YAYINCI_ID, DIRECT, 96cabb5fbdde37a7
+
+# ironSource / LevelPlay (LevelPlay panelinden "app-ads.txt" indir ve buraya yapistir)
+# ironsrc.com, YAYINCI_ID, DIRECT, 79929b4d1b4fd8a6
+
+# Meta Audience Network (Meta Monetization Manager > app-ads.txt)
+# facebook.com, YAYINCI_ID, RESELLER, c3e20eee3f780d68
